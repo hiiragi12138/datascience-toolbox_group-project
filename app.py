@@ -1,3 +1,4 @@
+from pathlib import Path
 from dash import Dash, dcc, html, Input, Output
 import pandas as pd
 import numpy as np
@@ -7,17 +8,18 @@ import plotly.express as px
 # =========================
 # 1. 讀取分析結果
 # =========================
+BASE_DIR = Path(__file__).resolve().parent
 
 controlled = pd.read_csv(
-    "Q2_controlled_comparison.csv"
+    BASE_DIR / "Q2_controlled_comparison.csv"
 )
 
 content_diff = pd.read_csv(
-    "Q2_content_difference.csv"
+    BASE_DIR / "Q2_content_difference.csv"
 )
 
 account_consistency = pd.read_csv(
-    "Q2_account_consistency.csv"
+    BASE_DIR / "Q2_account_consistency.csv"
 )
 
 
@@ -80,6 +82,7 @@ SECTION_STYLE = {
 # =========================
 
 app = Dash(__name__)
+server = app.server
 
 app.title = "Q2 CTA Strategy Dashboard"
 
