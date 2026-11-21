@@ -6,8 +6,8 @@ Kaggle link: https://l.instagram.com/?u=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%
 
 ## Research Questions
 
-1. To be defined
-2. To be defined
+1. Within each content category, how do images, Reels, and carousels compare in reach per 100 existing followers and in shares plus saves per 1,000 reach?
+2. Within each post format, how do posts with and without a call to action (CTA) compare in followers gained and in shares plus saves, both per 1,000 reach?
 
 ## Group Members
 
