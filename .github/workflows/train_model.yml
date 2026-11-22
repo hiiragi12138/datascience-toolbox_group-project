@@ -24,6 +24,14 @@ jobs:
         if: ${{ hashFiles('batch.csv') != '' }}
         run: python clean_batch.py
 
+      - name: Save batch report
+        if: ${{ hashFiles('batch.csv') != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: batch-report
+          path: batch_report.csv
+          if-no-files-found: error
+
       - name: Train and evaluate
         run: python train_model.py
 
