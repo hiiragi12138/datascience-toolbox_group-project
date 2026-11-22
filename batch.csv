@@ -1,0 +1,11 @@
+,post_id,account_id,account_type,follower_count,media_type,content_category,traffic_source,has_call_to_action,post_datetime,post_date,post_hour,day_of_week,likes,comments,shares,saves,reach,impressions,engagement_rate,followers_gained,caption_length,hashtags_count,performance_bucket_label
+0,IG0000001,7,brand,3551,reel,Technology,Home Feed,1,2024-11-30 06:00:00,2024-11-30,6,Saturday,194,5,7,34,4327,6230,0.0385,899,100,7,medium
+1,IG0000002,20,creator,31095,image,Fitness,Hashtags,1,2025-08-15 15:00:00,2025-08-15,15,Friday,449,10,21,68,7451,8268,0.0663,805,122,5,viral
+2,IG0000003,15,brand,8167,reel,Beauty,Reels Feed,0,2025-09-11 16:00:00,2025-09-11,16,Thursday,114,2,1,22,1639,2616,0.0531,758,115,8,high
+3,IG0000004,11,creator,9044,carousel,Music,External,0,2025-09-18 03:00:00,2025-09-18,3,Thursday,91,0,7,0,2877,3171,0.0309,402,115,7,medium
+4,IG0000005,8,creator,15986,reel,Technology,Profile,0,2025-03-21 09:00:00,2025-03-21,9,Friday,154,8,5,21,5350,8503,0.0221,155,112,9,low
+5,IG0000006,7,brand,3551,carousel,Photography,Reels Feed,1,2025-05-06 08:00:00,2025-05-06,8,Tuesday,149,3,4,23,2668,3472,0.0516,904,111,5,high
+6,IG0000007,19,creator,3447,carousel,Food,Explore,1,2025-09-21 09:00:00,2025-09-21,9,Sunday,371,9,14,54,5018,7671,0.0584,701,132,8,viral
+7,IG0000008,11,brand,9044,reel,Technology,Profile,0,2025-01-06 18:00:00,2025-01-06,18,Monday,18,1,0,3,1078,1357,0.0162,894,118,8,low
+8,IG0000009,11,brand,9044,reel,Beauty,Reels Feed,0,2025-10-13 05:00:00,2025-10-13,5,Monday,132,4,7,17,1900,2436,0.0657,739,112,7,viral
+9,IG0000010,4,creator,4972,reel,Music,Hashtags,0,2025-03-10 11:00:00,2025-03-10,11,Monday,101,2,3,12,2155,2942,0.0401,611,114,6,high
