@@ -1,11 +1,11 @@
 ,post_id,account_id,account_type,follower_count,media_type,content_category,traffic_source,has_call_to_action,post_datetime,post_date,post_hour,day_of_week,likes,comments,shares,saves,reach,impressions,engagement_rate,followers_gained,caption_length,hashtags_count,performance_bucket_label
-0,IG0000001,7,brand,3551,reel,Technology,Home Feed,1,2024-11-30 06:00:00,2024-11-30,6,Saturday,194,5,7,34,4327,6230,0.0385,899,100,7,medium
-1,IG0000002,20,creator,31095,image,Fitness,Hashtags,1,2025-08-15 15:00:00,2025-08-15,15,Friday,449,10,21,68,7451,8268,0.0663,805,122,5,viral
-2,IG0000003,15,brand,8167,reel,Beauty,Reels Feed,0,2025-09-11 16:00:00,2025-09-11,16,Thursday,114,2,1,22,1639,2616,0.0531,758,115,8,high
-3,IG0000004,11,creator,9044,carousel,Music,External,0,2025-09-18 03:00:00,2025-09-18,3,Thursday,91,0,7,0,2877,3171,0.0309,402,115,7,medium
-4,IG0000005,8,creator,15986,reel,Technology,Profile,0,2025-03-21 09:00:00,2025-03-21,9,Friday,154,8,5,21,5350,8503,0.0221,155,112,9,low
-5,IG0000006,7,brand,3551,carousel,Photography,Reels Feed,1,2025-05-06 08:00:00,2025-05-06,8,Tuesday,149,3,4,23,2668,3472,0.0516,904,111,5,high
-6,IG0000007,19,creator,3447,carousel,Food,Explore,1,2025-09-21 09:00:00,2025-09-21,9,Sunday,371,9,14,54,5018,7671,0.0584,701,132,8,viral
-7,IG0000008,11,brand,9044,reel,Technology,Profile,0,2025-01-06 18:00:00,2025-01-06,18,Monday,18,1,0,3,1078,1357,0.0162,894,118,8,low
-8,IG0000009,11,brand,9044,reel,Beauty,Reels Feed,0,2025-10-13 05:00:00,2025-10-13,5,Monday,132,4,7,17,1900,2436,0.0657,739,112,7,viral
-9,IG0000010,4,creator,4972,reel,Music,Hashtags,0,2025-03-10 11:00:00,2025-03-10,11,Monday,101,2,3,12,2155,2942,0.0401,611,114,6,high
+10,IG0000011,8,creator,15986,reel,Fitness,Home Feed,0,2025-04-09 10:00:00,2025-04-09,10,Wednesday,418,11,21,60,14307,20978,0.0243,390,110,6,low
+11,IG0000012,3,creator,10018,carousel,Beauty,Hashtags,1,2025-05-03 14:00:00,2025-05-03,14,Saturday,49,6,2,3,762,1098,0.0546,240,121,8,high
+12,IG0000013,2,brand,22291,image,Beauty,Explore,0,2025-08-23 19:00:00,2025-08-23,19,Saturday,111,1,7,24,4364,6329,0.0226,493,116,8,low
+13,IG0000014,12,creator,13798,image,Food,Reels Feed,1,2025-04-13 13:00:00,2025-04-13,13,Sunday,183,6,10,21,3997,6107,0.036,792,123,9,high
+14,IG0000015,6,brand,10034,reel,Lifestyle,Home Feed,1,2025-03-16 11:00:00,2025-03-16,11,Sunday,333,10,15,48,5240,6377,0.0637,808,124,6,viral
+15,IG0000016,2,creator,22291,reel,Music,Hashtags,1,2024-12-06 18:00:00,2024-12-06,18,Friday,271,8,13,47,5981,8127,0.0417,752,123,8,high
+16,IG0000017,1,creator,9461,image,Travel,External,0,2025-07-11 20:00:00,2025-07-11,20,Friday,138,1,4,18,4489,5263,0.0306,920,133,8,medium
+17,IG0000018,12,creator,13798,carousel,Beauty,Home Feed,0,2025-01-08 11:00:00,2025-01-08,11,Wednesday,261,5,16,35,6267,9464,0.0335,923,119,14,medium
+18,IG0000019,12,creator,13798,image,Lifestyle,External,0,2025-06-20 06:00:00,2025-06-20,6,Friday,120,9,5,24,8187,11264,0.014,892,107,4,low
+19,IG0000020,17,brand,15923,carousel,Travel,External,0,2025-06-13 04:00:00,2025-06-13,4,Friday,39,0,2,7,3345,4755,0.0101,216,135,2,low
