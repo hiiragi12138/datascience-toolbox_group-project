@@ -22,7 +22,7 @@ jobs:
 
       - name: clean incoming batch
         if: ${{ hashFiles('batch.csv') != '' }}
-        run: python batch_clean.py
+        run: python clean_batch.py
 
       - name: Train and evaluate
         run: python train_model.py
