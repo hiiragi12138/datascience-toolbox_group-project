@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - "yunzhang's-branch"
+      - main
 
 jobs:
   evaluate:
